@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# Logs
+*.log
+
+# Cache
+*.db
+*.db-shm
+*.db-wal
+
+# Publish artifacts
+*.pubxml
+*.publishsettings
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
